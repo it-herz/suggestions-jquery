@@ -17,6 +17,7 @@
   margin: 0;
   padding: 0;
   vertical-align: top;
+  min-height: 1px;
   -webkit-text-size-adjust: 100%;
 }
 .suggestions-addon {
