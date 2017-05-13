@@ -473,7 +473,7 @@ var DEFAULT_OPTIONS = {
     count: 5,
     $helpers: null,
     headers: null,
-    scrollOnFocus: true,
+    scrollOnFocus: false,
     mobileWidth: 980,
     initializeInterval: 100
 };
