@@ -255,6 +255,7 @@ Suggestions.prototype = {
     },
 
     scrollToTop: function () {
+        return;     //temporary disable
         var that = this,
             scrollTarget = that.options.scrollOnFocus;
 
